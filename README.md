@@ -9,3 +9,6 @@ https://dzone.com/articles/spring-boot-application-live-reload-hot-swap-with
 
 ### Setting up lombok plugin with IntelliJ
 http://blog.woniper.net/229
+
+### Good to-be model
+https://github.com/bigzidane/springboot-rest-h2-swagger
