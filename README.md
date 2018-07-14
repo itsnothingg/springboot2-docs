@@ -12,3 +12,6 @@ http://blog.woniper.net/229
 
 ### Good to-be model
 https://github.com/bigzidane/springboot-rest-h2-swagger
+
+### Spring boot Security Authentication Failure
+http://zgundam.tistory.com/53
