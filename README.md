@@ -18,3 +18,6 @@ http://zgundam.tistory.com/53
 
 ### Naming rest-ful controller functions
 https://laravel.com/docs/5.6/controllers#resource-controllers
+
+### Handling form submissions
+https://spring.io/guides/gs/handling-form-submission/
