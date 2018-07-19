@@ -15,3 +15,6 @@ https://github.com/bigzidane/springboot-rest-h2-swagger
 
 ### Spring boot Security Authentication Failure
 http://zgundam.tistory.com/53
+
+### Naming rest-ful controller functions
+https://laravel.com/docs/5.6/controllers#resource-controllers
