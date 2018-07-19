@@ -24,3 +24,6 @@ https://spring.io/guides/gs/handling-form-submission/
 
 ### Dynamic form validations
 http://www.baeldung.com/spring-dynamic-dto-validation
+
+### Web Application layers
+https://www.petrikainulainen.net/software-development/design/understanding-spring-web-application-architecture-the-classic-way/
